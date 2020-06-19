@@ -1,6 +1,23 @@
-# RoboAdvisor - The Power of the Cloud 
+# Unit 13 Homework Assignment - The Power of the Cloud and Unsupervised Learning
 
-### Robo Advisor for Retirement Plans
+## Background
+
+It is time to take what you have learned about unsupervised learning and the AWS services and apply it to new situations. For this assignment, you will need to complete **one of two** (not both) challenges. Which challenge you take on is your choice. Just be sure to give it your all -- as the skills you hone will become powerful tools in your FinTech tool belt.
+
+### Before You Begin
+
+1. Create a new repository for this project called `unit13-challenge`. **Do not add this homework to an existing repository**.
+
+2. Clone the new repository to your computer.
+
+3. Inside your local git repository, create a directory for the challenge assignment you choose. Use folder names corresponding to the challenges: **RoboAdvisor** or  **ClusteringCrypto**.
+
+4. Add your solution files to this folder.
+
+5. Push the above changes to GitHub or GitLab.
+
+
+## Option 1: Robo Advisor for Retirement Plans
 
 ![Robot](Images/robot.jpg)
 
