@@ -124,5 +124,13 @@ Digital transformation consultant, hired by most prominent retirment plan provid
 
 ![bot-test-with-lambda](Images/bot-test-with-lambda.gif)
 
+<details>
+<summary>Integrate the Amazon Lex with Slack</summary>
+
+Follow the guidelines for integrating the Bot with Slack [Integration with Slack](https://docs.aws.amazon.com/lex/latest/dg/slack-bot-association.html)
+
+![Integrate_with_Slack](Images/Integrate_with_Slack.gif)
+
+
 ---
 
